@@ -1,11 +1,15 @@
-p{
-    text-align: start;
-    text-decoration: underline;
-}
-
 h1{
-    font-weight: bolder;
+  text-transform: capitalize;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
-a{
-    text-decoration: none;
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
 }
