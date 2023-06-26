@@ -1,0 +1,12 @@
+p{
+    text-align: start;
+    text-decoration: underline;
+}
+
+h1{
+    text-align: start;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
