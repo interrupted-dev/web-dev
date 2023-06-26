@@ -4,8 +4,7 @@ p{
 }
 
 h1{
-    text-align: start;
-    text-decoration: line-through;
+    font-weight: bolder;
 }
 a{
     text-decoration: none;
