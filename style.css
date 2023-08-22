@@ -1,0 +1,15 @@
+button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    inline
+}
+a{
+   background-color: black;
+   padding: 15px;
+   color: white;
+   text-decoration: none;
+   border-radius:10px;
+}
