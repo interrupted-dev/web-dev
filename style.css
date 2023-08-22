@@ -12,4 +12,12 @@ a{
    color: white;
    text-decoration: none;
    border-radius:10px;
+   font-family: 'Exo', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-family: 'Exo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
